@@ -1,2 +1,1 @@
-# my-to-do-list-
-a to do list for daily habit tracking 
+###simple cli to do list for track daily habit
